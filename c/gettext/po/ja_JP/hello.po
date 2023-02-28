@@ -1,0 +1,22 @@
+# Japanese translations for hardboiled package.
+# Copyright (C) 2023 THE hardboiled'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the hardboiled package.
+#  <hardboiled65@probook>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hardboiled 65\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-28 13:56+0900\n"
+"PO-Revision-Date: 2023-02-28 15:38+0900\n"
+"Last-Translator:  <hardboiled65@probook>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: main.c:11
+msgid "SAY_HELLO"
+msgstr "こんにちは！"
