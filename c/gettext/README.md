@@ -1,5 +1,7 @@
 # gettext Tutorial
 
+This tutorial describes how to internationalise software in C on Linux with **gettext**.
+
 ## Create a Template File
 
 ```sh
