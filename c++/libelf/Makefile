@@ -7,4 +7,4 @@ libfoo.so:
 	strip libfoo.so
 
 clean:
-	rm foo.o libfoo.so
+	rm -f a.out foo.o libfoo.so
